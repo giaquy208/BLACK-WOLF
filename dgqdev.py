@@ -14,7 +14,7 @@ Phiên Bản: 1.0
 [Bạn không thể tấn công trang web chính phủ Việt Nam!]   
 © Creat by     Istana Kerajaan      
 ├─────────────────────────────────────────────────────┤
-© FB : Istana Kerajaan
+© FB : Vu Ngoc Han
 [!]Không Được Tấn Công Trang Web Của Chính Phủ[!]
 \r\n''')
 
